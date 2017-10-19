@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: WJNKptt4KMOc/xEu4oKjpbUFhLIEHyntdWR6S0strh2DHeWlxwCLTi0FrFNhJb6BysiY7zElIETfuCEID3fbK3rs+RKcSDWUrvch3QHfFEfmhAOHWPAQAsWwXEg/0eiwDwRUSUkOSa0KzCE4XfkuYg7N0xwauCxj8AQuoNYt/TEEV9z+P4SsUZQySTjNaobZO4L9Qfb+9dqbBx7scEAxPvGGqx61yBz8r5C5Zots8J8BNNlfeDtZzPz4z6r4w4tLLrAcwm2dWWfSz/nVLbT+si7Rad3Ygo/VWQp6hJtMPISXYUyts0K/G9RN0Vn5AOPzdi7lNLIWzEWaj6cKtTDEl5ySM4Lu37kjZ4pb8wpkRSXGZlG68GmENa2m//n88o+NY4/qvWnSFpe65J6jGHxGGXr3QmZQntUyMYqqjicU2gyaeIZBX8VqHCvWA7siVZUayPS0go4fg4gsLuLH/23spbu8Ty/BVcQafzePNO95BGxC8K92Kf38zM85v+LJsYbpBSMYd1XKPTLooQDOeykWCKqUfJC/TXZ4DQFbJuRJ1kMXmeDMcw9RB5+/908WMoPtRXqvcPVekT2XCAJCh+zPxdKAwIC7pOLDugECJibnwAmBIfK+lxuUTJ+ReGFISKx+o8782RkF9Wc84YSZBZcWdkVJ6hfcQ/h91gpJuLNAV30=
-  app: guarded-cliffs-59359
+  app: 'guarded-cliffs-59359'
   on:
     repo: atakori/Blog-API
